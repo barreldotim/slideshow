@@ -1,0 +1,22 @@
+{
+    "name" : "Slideshow",
+    "identifier" : "im.barrel.slideshow",
+    "version" : "1.0",
+    "description" : "Convert sketch to power point or key note presenatations",
+    "authorEmail" : "hello@barrel.im",
+    "author" : "Barrel",
+
+    "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "name" : "Slideshow",
+      "identifier" : "im.barrel.slideshow"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": ["im.barrel.slideshow"]
+}
+
+}
