@@ -3,8 +3,6 @@
 --- | --- | --- | ---
 ## Export your Sketch designs as PPTX presentations
 
-![Slideshow demo](http://cdn.finch.io/public/slinky.gif)
-
 Slideshow is a [Sketch](https://www.sketchapp.com) app plugin that allows you to export Sketch artboards as PPTX slides. Since the format is PPTX, it can be opened using powerpoint,keynote & even google slides
 
 ### Installation
@@ -25,8 +23,6 @@ Slideshow is not perfect _yet_, so to get the best result, there are some things
 
 ### 👉 Images and icons
 Slideshow will automatically export images, but you need to individually mark them as **Exportable**. It is always recommened to mark svg icons as **Exportable**
-
-![](http://cdn.finch.io/public/slinky-exportable.gif)
 
 ### 👉 Fonts
 Although Slideshow picks custom fonts, since the output will be a PPTX file we suggest you to use cross-platform fonts only:
